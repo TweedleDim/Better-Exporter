@@ -12,7 +12,7 @@ The goal of this script is to automate the export of layers of an Adobe Animate 
 	- Add the tag `M_` in front of a **folder name**, to **M**erge the layers contained inside this folder.
 	- If these letters don't suit your needs you can easily change them by opening the script, see lines 24 and 25.
 
-- A folder is automatically created at the same path as the .fla file and with the same name. Exported files take the name of the layers, preceded by incremental numbers. This naming convention keep the right depth order. Therefore you can just drag and drop the exported folder into an After Effects composition to get the expected result.
+- A folder is automatically created at the same path as the .fla file and with the same name. Exported files take the name of the layers, preceded by incremental numbers. This naming convention keep the right depth order. Therefore you just have to drag and drop the exported folder into an After Effects composition to get the expected result.
 
 
 ### A few caveats
